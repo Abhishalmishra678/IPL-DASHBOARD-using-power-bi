@@ -1,5 +1,5 @@
 # IPL Data Analysis and Dashboard
-![image](https://github.com/jainmohit02/Sales_Analytic_Dashboard_power_bi/blob/main/Sales%20Overview.png)
+![image](https://github.com/Abhishalmishra678/IPL-DASHBOARD-using-power-bi/blob/main/IPL%20dashboard.pbix))
 ### Power BI Data Cleaning, Transformation, and Visualization
 
 ---
